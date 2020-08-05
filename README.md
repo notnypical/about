@@ -4,6 +4,12 @@
 Hey, I'm NotNypical... I am doing stuff in Qt for C++/Python, JavaScript/TypeScript, and so on.
 
 
+## Applications
+
+- [pyTabulator](https://github.com/notnypical/pytabulator)  
+  An open source tool written in Qt for Python and intended for easy creation and editing of documents with character-separated values.
+
+
 ## Copyright
 
 Copyright &copy; 2020 [NotNypical](https://notnypical.github.io).
