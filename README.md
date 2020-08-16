@@ -9,6 +9,9 @@ Hey, I'm NotNypical... I am doing stuff in Qt for C++/Python, JavaScript/TypeScr
 - [pyTabulator](https://github.com/notnypical/pytabulator)  
   An open source tool written in Qt for Python and intended for easy creation and editing of documents with character-separated values.
 
+- [qTabulator](https://github.com/notnypical/qtabulator)  
+  An open source tool written in Qt for C++ and intended for easy creation and editing of documents with character-separated values.
+
 
 ## Copyright
 
