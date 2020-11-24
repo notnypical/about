@@ -6,17 +6,17 @@ Hey, I'm NotNypical... I am doing stuff in Qt for C++/Python, JavaScript/TypeScr
 
 ## Applications
 
-- [pyTabulator](https://github.com/notnypical/pytabulator)  
-  An open source tool written in Qt for Python and intended for easy creation and editing of documents with character-separated values.
-
-- [qTabulator](https://github.com/notnypical/qtabulator)  
-  An open source tool written in Qt for C++ and intended for easy creation and editing of documents with character-separated values.
-
 - [MediathekView-Qt](https://github.com/notnypical/mediathekview-qt)  
   An open source front-end tool written in Qt for C++ and designed for easy access to the [MediathekView](https://mediathekview.de) database.
 
 - [MediathekView-QtPy](https://github.com/notnypical/mediathekview-qtpy)  
   An open source front-end tool written in Qt for Python and designed for easy access to the [MediathekView](https://mediathekview.de) database.
+
+- [Tabulator-Qt](https://github.com/notnypical/tabulator-qt)  
+  An open source tool written in Qt for C++ and designed for easy creation and editing of documents with character-separated values.
+
+- [Tabulator-QtPy](https://github.com/notnypical/tabulator-qtpy)  
+  An open source tool written in Qt for Python and designed for easy creation and editing of documents with character-separated values.
 
 
 ## Copyright
