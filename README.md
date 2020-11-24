@@ -12,6 +12,12 @@ Hey, I'm NotNypical... I am doing stuff in Qt for C++/Python, JavaScript/TypeScr
 - [qTabulator](https://github.com/notnypical/qtabulator)  
   An open source tool written in Qt for C++ and intended for easy creation and editing of documents with character-separated values.
 
+- [MediathekView-Qt](https://github.com/notnypical/mediathekview-qt)  
+  An open source front-end tool written in Qt for C++ and designed for easy access to the [MediathekView](https://mediathekview.de) database.
+
+- [MediathekView-QtPy](https://github.com/notnypical/mediathekview-qtpy)  
+  An open source front-end tool written in Qt for Python and designed for easy access to the [MediathekView](https://mediathekview.de) database.
+
 
 ## Copyright
 
