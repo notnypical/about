@@ -21,7 +21,7 @@ Hey, I'm NotNypical... I am doing stuff in Qt for C++/Python, JavaScript/TypeScr
 
 ## Copyright
 
-Copyright &copy; 2020 [NotNypical](https://notnypical.github.io).
+Copyright &copy; 2020-2021 [NotNypical](https://notnypical.github.io).
 
 
 ## License
