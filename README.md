@@ -1,7 +1,7 @@
 
 # About me
 
-Hey, I'm NotNypical... I am doing stuff in Qt for C++/Python, JavaScript/TypeScript, and so on.
+Hey, I'm NotNypical... I am doing stuff in Qt for C++/Python, JavaScript/TypeScript, ...
 
 
 ## Applications
@@ -13,10 +13,10 @@ Hey, I'm NotNypical... I am doing stuff in Qt for C++/Python, JavaScript/TypeScr
   An open source front-end tool written in Qt for Python and designed for easy access to the [MediathekView](https://mediathekview.de) database.
 
 - [Tabulator-Qt](https://github.com/notnypical/tabulator-qt)  
-  An open source tool written in Qt for C++ and designed for easy creation and editing of documents with character-separated values.
+  An open source editor tool written in Qt for C++ and designed for easy creation and editing of documents with character-separated values.
 
 - [Tabulator-QtPy](https://github.com/notnypical/tabulator-qtpy)  
-  An open source tool written in Qt for Python and designed for easy creation and editing of documents with character-separated values.
+  An open source editor tool written in Qt for Python and designed for easy creation and editing of documents with character-separated values.
 
 
 ## Copyright
